@@ -1,5 +1,13 @@
 
 
+// const handleAddToStorage = () => {
+//    const name = 'Anamol Hasan'
+
+//    localStorage.setItem('name', name)
+// }
+
 const handleAddToStorage = () => {
-    console.log('hello world')
+   const name = 'Anamol Hasan'
+
+   localStorage.setItem('name', name)
 }
